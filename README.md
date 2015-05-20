@@ -10,12 +10,17 @@ A curated list of podcasts we like to listen to.
 * http://mindthecloud.com
 * http://gimletmedia.com/show/reply-all
 * http://shoptalkshow.com
-* https://changelog.com
+* https://changelog.com/podcast/
 * https://soundcloud.com/between-screens
 * https://developertea.com
 * http://blog.cognitect.com/cognicast
 * http://www.functionalgeekery.com
 * http://imasters.com.br/perfil/databasecast
+* http://theshipshow.com/
+* http://5by5.tv/inbeta
+* http://thenewstack.io/podcasts/
+* http://blog.stackoverflow.com/category/podcasts/
+* http://aws.amazon.com/podcasts/aws-podcast/
 
 ### Tooling
 
